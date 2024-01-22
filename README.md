@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tropilax46
-- 👀 I’m studying some languages
-- 🌱 I’m currently learning how to use git, github and python
-- 🙌 I'm here for learning how to resolve some problems, I'm very happy to help you too
+- 👀 I’m studying cloud engineer
+- 🌱 I’m currently learning AWS
+- 🙌 I'm here for learning how to resolve some problems, I'm very happy to help you too!
